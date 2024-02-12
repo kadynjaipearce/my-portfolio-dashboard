@@ -1,6 +1,6 @@
 import pymongo
 
-url = "mongodb+srv://eenxrm:b7hrf0LPiuMx5Tfg@my-portfolio-data.hb7ucti.mongodb.net/portfolio"
+url = ""
 
 client = pymongo.MongoClient(url)
 
